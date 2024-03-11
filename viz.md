@@ -6,7 +6,7 @@ permalink: /viz/
 
 Here begins the online repository for Olivia's pretty visualizations!
 
-[Link to a page] ({% link /publics.html %})
+[Link to a page]({% link /publics.html %})
 
 
 [jekyll-organization]: https://github.com/jekyll
