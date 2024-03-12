@@ -7,6 +7,7 @@ permalink: /viz/
 Here begins the online repository for Olivia's pretty visualizations!
 
 [Interactive Visualization for 2- and 4-Year Schools]({% link /publics.html %})
+<br>
 [Heatmap Comparing Affordability and Economic Mobility across States]({% link /image.html %})
 
 
