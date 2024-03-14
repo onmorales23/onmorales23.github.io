@@ -28,7 +28,7 @@ twitter_username: olivianmo
 github_username:  onmorales23
 
 # Build settings
-theme: forty
+theme: Forty
 plugins:
   - jekyll-feed
 
