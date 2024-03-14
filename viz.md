@@ -10,7 +10,7 @@ Here begins the online repository for Olivia's pretty visualizations!
 <br>
 [Heatmap Comparing Affordability and Economic Mobility across States]({% link /image.html %})
 <br>
-[Comparing Affordability across U.S. Regions]({% link /image2.html %})
+[Comparing Affordability across U.S. Regions]({% link /violin_plot.pdf %})
 
 
 [jekyll-organization]: https://github.com/jekyll
