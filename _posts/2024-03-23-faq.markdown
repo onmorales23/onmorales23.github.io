@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Project Overview"
+date:   2024-03-24 
+categories: update
+---
+
+The following project utilizes data published by the not-for-profit organization Opportunity Insights, housed at Harvard University. The data are featured in a project entitled *Mobility Report Cards: Income Segregation and Intergenerational Mobility Across Colleges in the United States*, where Raj Chetty and colleagues leveraged multiple data sources (tax, 1098-T and Pell grant records) to measure intergenerational economic mobility from 1999 to 2013. For this research endeavor, I used the economic mobility measure to evaluate the U.S. higher education system's ability to propel student graduates economically. 
