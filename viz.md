@@ -10,10 +10,11 @@ Here begins the online repository for Olivia's pretty visualizations!
 <br>
 [Alternate Interactive Visualization, 2- and 4-Year Schools]({% link /2vs4.html %})
 <br>
-[Heatmap Comparing Affordability and Economic Mobility across States]({% link /image.html %})
+[Heatmap Comparing Affordability and Economic Mobility Across States]({% link /image.html %})
 <br>
-[Comparing Affordability across U.S. Regions]({% link /violin_plot.pdf %})
+[Comparing Affordability Across U.S. Regions]({% link /violin_plot.pdf %})
 <br>
+[Comparing Economic Mobility Across U.S. Regions]({% link/violin_plot_alternate.pdf %})
 
 
 [jekyll-organization]: https://github.com/jekyll
