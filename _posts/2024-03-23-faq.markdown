@@ -12,13 +12,13 @@ The following project utilizes data published by Opportunity Insights at Harvard
 <br>
 * States like Texas and Louisiana host robust 2-year schools/school systems that promote affordability and economic mobility while 4-year schools in New York and Wyoming stand out.
 <br>
-* The measures of affordability seem to cluster around the median across U.S. regions, with the West demonstrating a greater range of overall values. For economic mobility, the measures seem to cluster as well, with the Northeast demonstrating a greater range of overall values.
+* The measures of affordability seem to cluster across U.S. regions, with the West demonstrating a greater range of overall values. For economic mobility, the measures seem to cluster as well, with the Northeast demonstrating a greater range of overall values.
 <br>
 * States with larger college-aged populations don't necessarily exceed other states in the economic mobility/affordability realm
 
 **Measuring Economic Mobility and Affordability**
 <br>
-How is economic mobility measured? In Opportunity Inisights's Dataverse Repository Codebook, **economic mobility** is defined as the "percent of students who have parents in the Bottom 20% of the income distribution and reach the Top 20% of the income distribution" (Chetty et al., 2017). Economic mobility rates were calculated for each institution in the data set for each year available in the 1999-2013 time span. 
+How is economic mobility measured? In Opportunity Insights's Dataverse Repository Codebook, **economic mobility** is defined as the "percent of students who have parents in the Bottom 20% of the income distribution and reach the Top 20% of the income distribution" (Chetty et al., 2017). Economic mobility rates were calculated for each institution in the data set for each year available in the 1999-2013 time span. 
 
 To hone in closer to the policy implications of such an index, I specifically limited the dataset to public 2- and 4-year institutions; my hope is to highlight the public sector's role in promoting economic mobility amongst the most economically vulnerable students (and all for a more affordable net price). The variable **EMR** is the median economic mobility rate for each institution in the dataset. The variable **stateavg** is the median rate for each state represented in the dataset, separated by institutional level.
 
