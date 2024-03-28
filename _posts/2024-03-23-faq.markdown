@@ -28,11 +28,15 @@ To gauge institutional affordability, I created an index that measured affordabi
 <br>
 Recent legislative interest in bolstering public colleges, particularly community colleges, emanates from the Assisting Community Colleges in Educating Skilled Students (ACCESS) Act of 2024, introduced by Senators Tim Kaine (D-VA) and Todd Young (R-IN). While this particular bill focuses on funding community colleges to develop workforce training opportunities, we hope the results of this project inspire more comprehensive legislative measures to strengthen public U.S. institutions and meet their unmet potential.
 
-**Reference**
+**References**
 <br>
 ACCESS Act of 2024, S. 3742, 118th Cong. (2024). https://www.congress.gov/118/bills/s3742/BILLS-118s3742is.pdf 
 
 Chetty, R., Friedman, J.N., Saez, E., Turner, N., & Yagan, D. (2017). *Mobility report cards: The role of colleges in intergenerational mobility (Working Paper No. 23618)*. National Bureau of Economic Research. [https://www.nber.org/system/files/working_papers/w23618/w23618.pdf](https://www.nber.org/system/files/working_papers/w23618/w23618.pdf)
+
+**Data Sources**
+<br>
+[ACS 5-Year Estimates (2009-2013) & (2018-2022)](https://www.census.gov/data/developers/data-sets/acs-5year.html)
 
 [Data Repository on Opportunity Insights Website](https://opportunityinsights.org/data/)
 
