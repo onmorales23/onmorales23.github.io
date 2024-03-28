@@ -4,22 +4,37 @@ title:  "Project Overview"
 date:   2024-03-24 
 categories: update
 ---
+**Abstract**
+<br>
+The following project utilizes data published by Opportunity Insights at Harvard University. Raj Chetty and colleagues leveraged multiple data sources to measure intergenerational economic mobility from 1999 to 2013. I used the economic mobility measure and measures of affordability to evaluate the U.S. higher education system's ability to promote economic mobility through affordable educational opportunities. To evaluate these measures, I created several data visualizations and highlight a few key findings:
+<br>
+* There is a larger contingent of 2-year schools where the maximum Pell grant award (2013) exceeds cost of attendance (CoA) compared to the contingent of 4-year schools that exceed the median economic mobility index of all schools.
+<br>
+* States like Texas and Louisiana host robust 2-year schools/school systems that promote affordability and economic mobility while 4-year schools in New York and Wyoming stand out.
+<br>
+* The measures of affordability seem to cluster around the median across U.S. regions, with the West demonstrating a greater range of overall values. For economic mobility, the measures seem to cluster as well, with the Northeast demonstrating a greater range of overall values.
+<br>
+* States with larger college-aged populations don't necessarily exceed other states in the economic mobility/affordability realm
 
-The following project utilizes data published by the not-for-profit organization Opportunity Insights, housed at Harvard University. The data are featured in a project entitled *Mobility Report Cards: Income Segregation and Intergenerational Mobility Across Colleges in the United States*, where Raj Chetty and colleagues leveraged multiple data sources (tax, 1098-T and Pell grant records) to measure intergenerational economic mobility from 1999 to 2013. For this research endeavor, I used the economic mobility measure to evaluate the U.S. higher education system's ability to propel student graduates economically. 
-
+**Measuring Economic Mobility and Affordability**
+<br>
 How is economic mobility measured? In Opportunity Inisights's Dataverse Repository Codebook, **economic mobility** is defined as the "percent of students who have parents in the Bottom 20% of the income distribution and reach the Top 20% of the income distribution" (Chetty et al., 2017). Economic mobility rates were calculated for each institution in the data set for each year available in the 1999-2013 time span. 
 
 To hone in closer to the policy implications of such an index, I specifically limited the dataset to public 2- and 4-year institutions; my hope is to highlight the public sector's role in promoting economic mobility amongst the most economically vulnerable students (and all for a more affordable net price). The variable **aggaverage** is the median economic mobility rate for each institution in the dataset.
 
-To gauge institutional affordability, I created an index that measured affordability in terms of the maximum Pell grant's ability to cover the cost of attendance of the institution (2013 dollars; 5645/CoA). I then created the variable **stateaff** as the median affordability measure for each state.
+To gauge institutional affordability, I created an index that measured affordability in terms of the maximum Pell grant's ability to cover the cost of attendance of the institution (2013 dollars; $5645/CoA). I then created the variable **stateaff** as the median affordability measure for each state, separated by institutional level.
 
 **Policy Connection**
+<br>
+Recent legislative interest in bolstering public colleges, particularly community colleges, emanates from the Assisting Community Colleges in Educating Skilled Students (ACCESS) Act of 2024, introduced by Senators Tim Kaine (D-VA) and Todd Young (R-IN). While this particular bill focuses on funding community colleges to develop workforce training opportunities, we hope the results of this project inspire more comprehensive legislative measures to strengthen public U.S. institutions and meet their unmet potential.
 
 **Reference**
 <br>
 ACCESS Act of 2024, S. 3742, 118th Cong. (2024). https://www.congress.gov/118/bills/s3742/BILLS-118s3742is.pdf 
 
-Chetty, R., Friedman, J.N., Saez, E., Turner, N., & Yagan, D. (2017). *Mobility report cards: The role of colleges in intergenerational mobility (Working Paper No. 23618)*. National Bureau of Economic Research. https://www.nber.org/system/files/working_papers/w23618/w23618.pdf
+Chetty, R., Friedman, J.N., Saez, E., Turner, N., & Yagan, D. (2017). *Mobility report cards: The role of colleges in intergenerational mobility (Working Paper No. 23618)*. National Bureau of Economic Research. [https://www.nber.org/system/files/working_papers/w23618/w23618.pdf](https://www.nber.org/system/files/working_papers/w23618/w23618.pdf)
+
+[Data Repository on Opportunity Insights Website](https://opportunityinsights.org/data/)
 
 R Packages utilized:
 * "tidyverse" 
