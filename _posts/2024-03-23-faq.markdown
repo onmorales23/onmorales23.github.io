@@ -36,7 +36,7 @@ Chetty, R., Friedman, J.N., Saez, E., Turner, N., & Yagan, D. (2017). *Mobility 
 
 **Data Sources**
 <br>
-[ACS 5-Year Estimates (2009-2013) & (2018-2022)](https://www.census.gov/data/developers/data-sets/acs-5year.html)
+[ACS 5-Year Estimates (2009-2013)](https://www.census.gov/data/developers/data-sets/acs-5year.html)
 
 [Data Repository on Opportunity Insights Website](https://opportunityinsights.org/data/)
 
